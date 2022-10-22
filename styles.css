@@ -103,6 +103,8 @@ header{
   background-color: #E30B20;
 }
 
+
+
 /* CUERPO DE LA PAGINA */
 .contenido-texto{
     font-size: 30px;
@@ -390,7 +392,7 @@ ul{
 
 /* SECCION DE CURSOS EN NUESTROS CURSOS */
 section{
-  height: 650px;
+  height: 400px;
   display: flex;
   justify-content: space-evenly;
   padding: 0 40px;
@@ -422,7 +424,7 @@ section a{
 }
 
 section img{
-  height: 60%;
+  height: 70%;
 }
 
 .text-inicio h2{
